@@ -62,3 +62,5 @@ After running the script, you should see output similar to:
 Linear Regression - MAE: [value], RMSE: [value]
 
 A plot will be saved as `forecast_plot.png` displaying the comparison between true values and predictions.
+
+![Forecast Plot](forecast_plot.png)
