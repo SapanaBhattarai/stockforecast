@@ -1,4 +1,3 @@
-Certainly! Here is the Markdown text without the triple backticks:
 
 # Stock Price Prediction using Linear Regression
 
